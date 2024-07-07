@@ -17,6 +17,7 @@ header {
     background-image: linear-gradient(#65A374, #3B5F43);
     padding: 15px 20px;
     margin: auto;
+    min-width: 390px;
 }
 
 #cab {
@@ -33,6 +34,8 @@ nav {
     font-size: 0.7em;
     padding: 1px;
     margin: auto;
+    min-width: 428px;
+    max-width: 1200px;
     width: 100%;
 }
 
@@ -138,6 +141,7 @@ footer {
     font-size: 0.7em;
     text-align: center;
     width: 100%;
+    min-width: 418px;
     margin: 10px 0px 0px 0px;
     padding: 6px;
 }
