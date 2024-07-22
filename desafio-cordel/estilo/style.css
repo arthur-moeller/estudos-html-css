@@ -21,7 +21,8 @@ header {
     text-align: center;
     color: var(--corfundo);
     font: normal bold 2.5rem var(--fontetitulo);
-    padding: 40px 0px;   
+    padding: 40px 0px;
+    min-width: 200px; 
 }
 
 h2 {
