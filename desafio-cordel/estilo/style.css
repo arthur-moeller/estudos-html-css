@@ -36,6 +36,21 @@ pre > p {
     padding-left: 20px;
 }
 
+#imgflor {
+    background: rgb(34, 34, 34) url(/desafio-cordel/imagens/background001.jpg) center no-repeat fixed;
+    color: white    
+}
+
+#imgcartas {
+    background: rgb(34, 34, 34) url(/desafio-cordel/imagens/background002.jpg) center no-repeat fixed;   
+}
+
+#imgcartas > pre > p {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 350px;
+    color: white;
+}
+
 footer {
     background-color: var(--cordestaque);
     padding: 6px 0px;
