@@ -25,7 +25,7 @@ header {
 }
 
 h2 {
-    font-size: 1.6vw;
+    font-size: 2vw;
     padding-top: 15px;
     font-weight: 300;
 }
@@ -63,7 +63,7 @@ footer {
 footer > p {
     text-align: center;
     color: var(--corfundo);
-    font: normal 300 1rem var(--fontetitulo);
+    font: normal 300 2vw var(--fontetitulo);
 }
 
 a {
