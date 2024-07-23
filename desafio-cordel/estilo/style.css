@@ -20,21 +20,24 @@ header {
     background-color: var(--cordestaque);
     text-align: center;
     color: var(--corfundo);
-    font: normal bold 2.5rem var(--fontetitulo);
-    padding: 40px 0px;
-    min-width: 200px; 
+    font: normal bold 3.2vw var(--fontetitulo);
+    padding: 40px 0px; 
 }
 
 h2 {
-    font-size: 1rem;
+    font-size: 1.6vw;
     padding-top: 15px;
     font-weight: 300;
 }
 
 pre > p {
-    font: normal 400 1.8rem var(--fontetexto);
+    font: normal 400 3.5vw var(--fontetexto);
     white-space: pre-line;
     padding-left: 20px;
+}
+
+section {
+    line-height: 5vh;
 }
 
 #imgflor {
@@ -48,7 +51,7 @@ pre > p {
 
 #imgcartas > pre > p {
     background-color: rgba(0, 0, 0, 0.5);
-    width: 350px;
+    width: 35vw;
     color: white;
 }
 
